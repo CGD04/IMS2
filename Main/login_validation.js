@@ -121,7 +121,7 @@ const passwordMatch = () => {
 }
 
 const username = ['Kinley Dorji','username'];
-const password4 = 'Bringmethanos';
+const password4 = '12345';
 login.addEventListener('click',function(e){
     e.preventDefault();
 
